@@ -3,8 +3,7 @@
 Develop a Maven Hibernate project to implement Hibernate Query Language (HQL) for performing the following
 operations on a client entity class.
 The client class should include properties such as ID , Name , Gender , Age , Location ,
-Email Address , Mobile Number , and
-any other relevant attributes. The client ID must be a generated value.
+Email Address , Mobile Number , and any other relevant attributes. The client ID must be a generated value.
 l. Insert records manually or use persistent object.
 II. Print all records with all properties (Complete Object)
 Students are required to:
