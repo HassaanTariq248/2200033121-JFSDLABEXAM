@@ -1,4 +1,4 @@
-# 2200033121-JFSDLABEXAM
+# 2200033121-JFSD_LAB_EXAM S29
 
 Develop a Maven Hibernate project to implement Hibernate Query Language (HQL) for performing the following
 operations on a client entity class.
